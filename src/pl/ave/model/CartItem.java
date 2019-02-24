@@ -5,6 +5,8 @@ public class CartItem {
     private double originalPrice;
     private double discountPrice;
 
+
+
     public CartItem(String product, double originalPrice) {
         this.product = product;
         this.originalPrice = originalPrice;
